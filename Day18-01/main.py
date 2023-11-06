@@ -1,7 +1,7 @@
 
 # PLaying with the turtle graphics
 # Created some functions which are shapes
-# random shape drawer 
+# random shape drawer
 
 from turtle import Turtle, Screen
 import random
